@@ -1,0 +1,28 @@
+{
+  "name": "cpu-scheduler",
+  "version": "1.0.0",
+  "description": "This app process  tasks according to the user need \"",
+  "main": "schedular.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CPU-Schedular"
+  },
+  "keywords": [
+    "schedular",
+    "cpu",
+    "stack",
+    "queue",
+    "binary-heap",
+    "process",
+    "task"
+  ],
+  "author": "Adewumi Sunkanmi",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}
